@@ -1,0 +1,14 @@
+node_modules/
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore compiled binaries
+*.class
+*.exe
+
